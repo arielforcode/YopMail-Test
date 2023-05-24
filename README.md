@@ -1,8 +1,13 @@
 # YopMail-Test
 
-### Compilar los test de la carpeta code/test
+### Compilar los test de la carpeta code/test -- test estructurado
 - clase test
 - method YopMailTest
+
+### compilar la clase unitTest1 -- test desestructurado
+- clase unittest1
+- method TestIFrames
+
 
 Recomendaciones
 
